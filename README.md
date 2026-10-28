@@ -144,5 +144,3 @@ DIVIDE(
 ```
 
 Format the conversion-rate measure as a percentage in Power BI.
-6. Build the report pages, add slicers, and configure visual formatting.
-7. Validate the ROAS calculation and ensure campaign comparisons use consistent measures before interpreting the final results.
